@@ -26,12 +26,12 @@ I am passionate about software engineering, data science, AI, and solving real-w
 - 💼 [LinkedIn](https://www.linkedin.com/in/luvinga-kahise-b2a95a262)
 
 ## 📊 GitHub Stats
-![Luvinga's GitHub stats](https://github-readme-stats.vercel.app/api?user=luvinga&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luvinga&show_icons=true)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=luvinga&theme=github-dark)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=luvinga&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luvinga&layout=compact)
 
 
