@@ -24,3 +24,13 @@ I am passionate about software engineering, data science, AI, and solving real-w
 ## 📫 Contact
 - 📧 Email: luvingakahise20@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/luvinga-kahise-b2a95a262)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luvinga&show_icons=true)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=luvinga)
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luvinga&layout=compact)
+
