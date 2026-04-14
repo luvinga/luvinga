@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Luvinga 👋
 
-<!--
-**luvinga/luvinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Quantitative Economics Student  
+📍 St. Olaf College | Class of 2027  
 
-Here are some ideas to get you started:
+## 💻 About Me
+I am passionate about software engineering, data science, AI, and solving real-world problems using technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: Python, C++, JavaScript
+- Tools: Git, VS Code
+- Interests: Software Engineering, Data Science, AI
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- System Design
+
+## 🎯 Hobbies
+🚴‍♂️ Biking  
+💃 Dancing  
+⚽ Playing Football  
+
+## 📫 Contact
+- 📧 Email: luvingakahise20@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/luvinga-kahise-b2a95a262)
